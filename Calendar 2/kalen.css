@@ -1,0 +1,48 @@
+  .container{
+       max-width: 500px;
+    }
+ 
+    .month{
+       text-align: center;
+       font-size:2em;
+       letter-spacing:1px;
+       padding: 5px;
+     }
+ 
+    
+     table, tb, td, th  {
+       width: 100%;
+       table-layout: fixed;
+       text-align: center;
+       font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       background-color: transparent;
+       font-size: 17px;
+       border:1px solid darkslategray;
+     }
+ 
+ 
+  tr, th, td{
+       padding: 14px;
+    }
+ 
+    th {
+       background:gray;
+       }
+   
+    td{
+       background: burlywood;
+       List-Style:none; 
+        }
+ 
+        .ihover{
+          background-color:  #595959;
+          color: burlywood;
+          }
+ 
+        .ihover:hover{
+          background-color:  darkslategray;
+      }
+   
+      .shadow{
+         color: burlywood;
+     }
